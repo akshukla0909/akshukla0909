@@ -2,23 +2,23 @@
 
 ### About Me
 
-- 🌐 Learning and exploring web development
-- 🚀 Currently focusing on React.js for front-end development
-- 💻 Skilled in HTML, CSS, JavaScript, GSAP
-- 🔙 Familiar with MERN stack (MongoDB, Express.js, React, Node.js)
-- 📧 Working with technologies like Socket.io, Nodemailer, Passport.js, WebRTC
-- 👨‍💻 Enjoying the journey of becoming a full-stack developer
-- 🌟 Open to collaboration and always eager to learn new technologies
+* 🌐 MERN Stack Developer
+* 🚀 Currently working with React.js, Next.js, and TypeScript for modern front-end development
+* 💻 Skilled in HTML, CSS, JavaScript, GSAP, and building responsive UIs
+* 🔙 Proficient with the MERN stack (MongoDB, Express.js, React.js, Node.js)
+* 📧 Experienced with technologies like Socket.io, Nodemailer, Passport.js, and WebRTC
+* 👨‍💻 Passionate about building full-stack applications with real-world use cases
+* 🌟 Open to collaboration and always eager to learn and grow
 
-### Current Learning Goals
+### Current Focus
 
-- 🌐 Mastering React.js for front-end web development
-- ⚙️ Exploring back-end technologies like Node.js, Express.js
-- 🛠️ Building full-stack applications
-- 📚 Expanding knowledge in databases and authentication
+* ⚙️ Building robust APIs with Node.js and Express.js
+* 🛠️ Creating full-stack projects using modern tools and best practices
+* 🔐 Enhancing skills in authentication, security, and database design
 
 ### Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/akash-shukla-b10034182/) | [Portfolio](https://yourportfolio.com)
 
 Feel free to reach out for collaboration, discussions, or just to say hi! 😊
+
