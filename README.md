@@ -18,7 +18,7 @@
 
 ### Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/akash-shukla-b10034182/) | [Portfolio](https://yourportfolio.com) | [blog(https://dev.to/akash_shukla)]
+[LinkedIn](https://www.linkedin.com/in/akash-shukla-b10034182/) | [Portfolio](https://yourportfolio.com) | [blog](https://dev.to/akash_shukla)
 
 Feel free to reach out for collaboration, discussions, or just to say hi! 😊
 
