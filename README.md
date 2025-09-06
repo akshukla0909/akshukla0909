@@ -5,7 +5,7 @@
 * 🌐 MERN Stack Developer
 * 🚀 Currently working with React.js, Next.js, and TypeScript for modern front-end development
 * 💻 Skilled in HTML, CSS, JavaScript, GSAP, and building responsive UIs
-* 🔙 Proficient with the MERN stack (MongoDB, Express.js, React.js, Node.js)
+* 🔙 Proficient with the MENN stack (MongoDB, Express.js, Next.js, Node.js)
 * 📧 Experienced with technologies like Socket.io, Nodemailer, Passport.js, and WebRTC
 * 👨‍💻 Passionate about building full-stack applications with real-world use cases
 * 🌟 Open to collaboration and always eager to learn and grow
